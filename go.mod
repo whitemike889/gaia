@@ -4,12 +4,12 @@ go 1.16
 
 require (
 	github.com/cosmos/cosmos-sdk v0.44.0
-	github.com/cosmos/ibc-go v1.1.0
+	github.com/cosmos/ibc-go v1.0.0-beta1.0.20210907102815-396186b0f1e1
 	github.com/gorilla/mux v1.8.0
 	github.com/pkg/errors v0.9.1
 	github.com/rakyll/statik v0.1.7
-	github.com/spf13/cast v1.3.1
-	github.com/spf13/cobra v1.1.3
+	github.com/spf13/cast v1.4.1
+	github.com/spf13/cobra v1.2.1
 	github.com/stretchr/testify v1.7.0
 	github.com/tendermint/liquidity v1.4.0
 	github.com/tendermint/tendermint v0.34.12

@@ -7,8 +7,8 @@ require (
 	github.com/cosmos/go-bip39 v1.0.0
 	github.com/cosmos/ibc-go/v2 v2.0.3
 	github.com/gorilla/mux v1.8.0
-	github.com/ory/dockertest/v3 v3.8.1
 	github.com/gravity-devs/liquidity v1.4.6
+	github.com/ory/dockertest/v3 v3.8.1
 	github.com/rakyll/statik v0.1.7
 	github.com/spf13/cast v1.4.1
 	github.com/spf13/cobra v1.3.0
@@ -98,7 +98,7 @@ require (
 	github.com/mtibben/percent v0.2.1 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.0.2 // indirect
-	github.com/opencontainers/runc v1.0.2 // indirect
+	github.com/opencontainers/runc v1.1.2 // indirect
 	github.com/pelletier/go-toml v1.9.4 // indirect
 	github.com/petermattis/goid v0.0.0-20180202154549-b0b1615b78e5 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
